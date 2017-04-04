@@ -1,0 +1,48 @@
+body {
+  background-color: black;
+  font-family: verdana, sans-serif;
+  margin: 0px;
+  padding: 0px;
+}
+#content {
+  width: 800px;
+  margin: 0px auto;
+  background-color: white;
+}
+
+#header {
+  background: url("./../images/apple-pie.jpg");
+  background-size: 100%;
+  text-align: center;
+  color: white;
+  padding: 30% 0%;
+}
+
+img {
+  width: 50%;
+  height: 50%;
+
+}
+.imgDiv{
+  text-align: center;
+}
+
+#info {
+  font-size: 20px;
+}
+#recipe{
+  padding: 40px 60px;
+}
+
+
+#ingredients img{
+  font-size: 18px;
+}
+
+#direcctions {
+  font-size: 18px;
+}
+
+ul {
+
+}
